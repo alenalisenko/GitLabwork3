@@ -1,0 +1,2 @@
+*.jpg filter=lfs diff=lfs merge=lfs -text
+big[[:space:]]data/images.jfif filter=lfs diff=lfs merge=lfs -text
